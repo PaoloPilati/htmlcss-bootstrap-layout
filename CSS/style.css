@@ -1,0 +1,20 @@
+/* MEDIA QUERY TEST */
+
+@media screen and (min-width: 576px) {
+    body {
+        background-color: #6cf5dc;
+    }       
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-color: #f8c0c9;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    body {
+        background-color:#4cd489
+    }      
+}
